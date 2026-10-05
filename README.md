@@ -8,7 +8,7 @@ A single-page companion for planning factories in [Satisfactory](https://www.sat
 
 - Production calculator / recipe planner with flowchart and alternate-recipe picker
 - Power plant calculator (generators, fuel chain, net power)
-- Railroad signal planner with validation and train simulation
+- Railroad signal planner: drag-to-draw track, bendable curves, undo/redo, named & editable signals/stations/junctions/trains, Satisfactory 1.0 validation, and train simulation with deadlock detection
 - Interactive resource map (open-licensed node coordinates; original base map)
 - Recipe browser and tips
 - Data from Satisfactory 1.0
