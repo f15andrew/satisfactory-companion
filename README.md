@@ -7,7 +7,11 @@ A single-page companion for planning factories in [Satisfactory](https://www.sat
 ## Features
 
 - Production calculator / recipe planner with flowchart and alternate-recipe picker
-- Power plant calculator (generators, fuel chain, net power)
+- Power Shards & Somersloops: default and per-step clock speed (1–250%), Somersloop slots per building, shard/sloop totals, correct power scaling
+- Power plant planner: multiple generator groups, full fuel chain with extractors, flowchart ending in the power grid (net MW), waste/byproduct warnings, building footprint in foundations
+- Alternates tab: all 111 1.0 alternate recipes with search, product/building filters and select all/none; one shared choice list used by the calculator, power planner and every flowchart
+- One settings store with export/import of a single settings JSON
+- Optional account (email + password or magic link) that syncs your settings between devices. Everything still works signed out and offline
 - Railroad signal planner: drag-to-draw track, bendable curves, undo/redo, named & editable signals/stations/junctions/trains, Satisfactory 1.0 validation, and train simulation with deadlock detection
 - Interactive resource map (open-licensed node coordinates; original base map)
 - Recipe browser and tips
